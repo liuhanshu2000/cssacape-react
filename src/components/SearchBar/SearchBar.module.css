@@ -1,0 +1,24 @@
+.searchBar{
+    width: 100%;
+    border: 2px solid #a7a7a7;
+    border-right: none;
+    padding: 5px;
+    height: 20px;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    letter-spacing: -5px;
+    font-size: 17px;
+}
+
+.searchButton {
+    width: 34px;
+    height: 34px;
+    border: 0.1px solid #6e6e6e;
+    background: #bababa;
+    text-align: center;
+    color: #ffffff;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    font-size: 20px;
+    outline: none;
+}
